@@ -1,0 +1,802 @@
+Giordano Mark	Puolustaja	Calgary	60	13	46	59	165	500.0	770	12.83	2.57	141	
+Brossoit Laurent	Maalivahti	Winnipeg	14	0	0	0	0	305.0	179	12.79	4.19	127	
+Letang Kris	Puolustaja	Pittsburgh	49	12	31	43	150	485.0	584	11.92	2.46	119	
+Bergeron Patrice	Hyokkaaja	Boston	48	25	34	59	151	500.0	568	11.83	2.37	106	
+Kucherov Nikita	Hyokkaaja	Tampa Bay	63	30	64	94	186	500.0	737	11.70	2.34	93	
+Chabot Thomas	Puolustaja	Ottawa	41	10	29	39	117	379.0	476	11.61	3.06	104	
+McDavid Connor	Hyokkaaja	Edmonton	48	27	45	72	153	490.0	554	11.54	2.36	115	
+Burns Brent	Puolustaja	San Jose	67	11	53	64	235	490.0	770	11.49	2.35	103	
+Radulov Alexander	Hyokkaaja	Dallas	54	27	36	63	165	420.0	612	11.33	2.70	124	
+Ovechkin Alex	Hyokkaaja	Washington	64	39	27	66	263	495.0	723	11.30	2.28	112	
+Crosby Sidney	Hyokkaaja	Pittsburgh	59	26	44	70	161	490.0	665	11.27	2.30	112	
+Kane Patrick	Hyokkaaja	Chicago	49	29	41	70	202	505.0	546	11.14	2.21	100	
+Tavares John	Hyokkaaja	Toronto	62	39	29	68	228	460.0	689	11.11	2.42	111		
+Carlson John	Puolustaja	Washington	62	11	46	57	148	450.0	680	10.97	2.44	109	
+Karlsson Erik	Puolustaja	San Jose	46	3	39	42	146	465.0	501	10.89	2.34	98	
+Rielly Morgan	Puolustaja	Toronto	62	15	41	56	171	420.0	674	10.87	2.59	108	
+Vasilevskiy Andrei	Maalivahti	Tampa Bay	39	0	3	3	0	365.0	424	10.87	2.98	86	
+Hedman Victor	Puolustaja	Tampa Bay	53	10	33	43	134	485.0	566	10.68	2.20	85	
+Landeskog Gabriel	Hyokkaaja	Colorado	56	28	28	56	184	395.0	596	10.64	2.69	95	
+Murray Matt	Maalivahti	Pittsburgh	37	0	0	0	0	345.0	393	10.62	3.08	106	
+Bishop Ben	Maalivahti	Dallas	38	0	2	2	0	335.0	403	10.61	3.17	116	
+MacKinnon Nathan	Hyokkaaja	Colorado	65	34	50	84	291	425.0	689	10.60	2.49	95	
+Demko Thatcher	Maalivahti	Vancouver	2	0	0	0	0	290.0	21	10.50	3.62	84	
+Weber Shea	Puolustaja	Montreal	27	7	9	16	62	427.0	283	10.48	2.45	94	
+Gaudreau Johnny	Hyokkaaja	Calgary	64	33	50	83	196	390.0	669	10.45	2.68	114	
+Stamkos Steven	Hyokkaaja	Tampa Bay	63	33	37	70	180	465.0	656	10.41	2.24	83	
+Pastrnak David	Hyokkaaja	Boston	57	32	35	67	203	440.0	593	10.40	2.36	93	
+Delia Collin	Maalivahti	Chicago	10	0	0	0	0	290.0	104	10.40	3.59	93	
+Green Mike	Puolustaja	Detroit	26	4	14	18	61	345.0	270	10.38	3.01	114	
+Rantanen Mikko	Hyokkaaja	Colorado	57	24	48	72	151	390.0	591	10.37	2.66	93	
+Seguin Tyler	Hyokkaaja	Dallas	64	24	42	66	267	425.0	662	10.34	2.43	113	
+Matthews Auston	Hyokkaaja	Toronto	49	28	27	55	181	430.0	501	10.22	2.38	102	
+Byfuglien Dustin	Puolustaja	Winnipeg	36	4	23	27	97	420.0	368	10.22	2.43	102	
+Hall Taylor	Hyokkaaja	New Jersey	31	11	25	36	109	400.0	304	9.81	2.45	68	
+O'Reilly Ryan	Hyokkaaja	St. Louis	65	22	41	63	185	365.0	632	9.72	2.66	97	
+Barrie Tyson	Puolustaja	Colorado	61	13	38	51	167	395.0	593	9.72	2.46	87	
+Giroux Claude	Hyokkaaja	Philadelphia	46	14	34	48	137	385.0	446	9.70	2.52	87	
+Larkin Dylan	Hyokkaaja	Detroit	48	17	26	43	179	390.0	465	9.69	2.48	106	
+Eichel Jack	Hyokkaaja	Buffalo	44	14	35	49	175	396.0	426	9.68	2.44	96	
+Dumba Matt	Puolustaja	Minnesota	29	10	9	19	83	395.0	280	9.66	2.44	86	
+Petry Jeff	Puolustaja	Montreal	50	9	25	34	114	351.0	479	9.58	2.73	86	
+Point Brayden	Hyokkaaja	Tampa Bay	62	33	36	69	153	400.0	592	9.55	2.39	76	
+Draisaitl Leon	Hyokkaaja	Edmonton	49	25	32	57	127	445.0	466	9.51	2.14	95	
+Stone Mark	Hyokkaaja	Vegas	61	27	32	59	146	385.0	573	9.39	2.44	103	
+Marchand Brad	Hyokkaaja	Boston	61	24	50	74	181	460.0	572	9.38	2.04	84	
+Marner Mitchell	Hyokkaaja	Toronto	62	22	50	72	176	385.0	580	9.35	2.43	93		
+Pirri Brandon	Hyokkaaja	Vegas	19	10	6	16	58	280.0	177	9.32	3.33	102	
+Pettersson Elias	Hyokkaaja	Vancouver	38	20	22	42	78	367.0	352	9.26	2.52	74	
+Edler Alexander	Puolustaja	Vancouver	36	6	14	20	82	354.0	332	9.22	2.61	73	
+Arvidsson Viktor	Hyokkaaja	Nashville	40	24	11	35	135	385.0	368	9.20	2.39	82	
+Jones Seth	Puolustaja	Columbus	56	6	29	35	137	365.0	514	9.18	2.51	82	
+Klingberg John	Puolustaja	Dallas	47	7	28	35	120	360.0	431	9.17	2.55	100	
+Forsberg Filip	Hyokkaaja	Nashville	46	24	14	38	149	400.0	421	9.15	2.29	82	
+Tkachuk Matthew	Hyokkaaja	Calgary	62	31	35	66	154	370.0	565	9.11	2.46	100	
+Skinner Jeff	Hyokkaaja	Buffalo	47	29	14	43	149	357.0	428	9.11	2.55	91		
+Ekholm Mattias	Puolustaja	Nashville	62	6	32	38	105	335.0	561	9.05	2.70	81	
+Trocheck Vincent	Hyokkaaja	Florida	22	5	13	18	59	360.0	199	9.05	2.51	81	
+Aho Sebastian	Hyokkaaja	Carolina	64	23	40	63	182	385.0	578	9.03	2.35	81	
+Guentzel Jake	Hyokkaaja	Pittsburgh	62	31	30	61	168	380.0	559	9.02	2.37	90		
+Hajek Libor	Puolustaja	NY Rangers	1	0	0	0	3	214.0	9	9.00	4.21	63	
+Panarin Artemi	Hyokkaaja	Columbus	61	22	44	66	147	385.0	548	8.98	2.33	80	
+Zibanejad Mika	Hyokkaaja	NY Rangers	47	17	26	43	137	397.0	422	8.98	2.26	62	
+Monahan Sean	Hyokkaaja	Calgary	60	28	36	64	165	365.0	535	8.92	2.44	98		
+Wheeler Blake	Hyokkaaja	Winnipeg	63	11	59	70	173	400.0	561	8.90	2.23	89	
+Scheifele Mark	Hyokkaaja	Winnipeg	63	30	36	66	151	395.0	561	8.90	2.25	89		
+Lindholm Elias	Hyokkaaja	Calgary	63	21	40	61	125	380.0	559	8.87	2.34	97	
+Toews Jonathan	Hyokkaaja	Chicago	49	20	26	46	123	440.0	434	8.86	2.01	79	
+Atkinson Cam	Hyokkaaja	Columbus	62	32	23	55	221	360.0	545	8.79	2.44	79		
+Trouba Jacob	Puolustaja	Winnipeg	63	7	29	36	120	380.0	550	8.73	2.30	87	
+Stastny Paul	Hyokkaaja	Vegas	34	11	19	30	70	370.0	296	8.71	2.35	95	
+Hertl Tomas	Hyokkaaja	San Jose	62	27	32	59	143	375.0	537	8.66	2.31	77	
+Meier Timo	Hyokkaaja	San Jose	63	24	31	55	201	360.0	541	8.59	2.39	77	
+Palmieri Kyle	Hyokkaaja	New Jersey	46	21	15	36	152	330.0	393	8.54	2.59	59	
+Morrissey Josh	Puolustaja	Winnipeg	45	5	21	26	80	350.0	384	8.53	2.44	85	
+Kessel Phil	Hyokkaaja	Pittsburgh	62	27	42	69	162	370.0	529	8.53	2.31	85		
+Boeser Brock	Hyokkaaja	Vancouver	36	16	19	35	112	358.0	307	8.53	2.38	68		
+Gaunce Cameron	Puolustaja	Tampa Bay	2	0	0	0	2	220.0	17	8.50	3.86	68	
+Horvat Bo	Hyokkaaja	Vancouver	49	18	22	40	140	344.0	415	8.47	2.46	67	
+Hellebuyck Connor	Maalivahti	Winnipeg	50	0	1	1	0	345.0	423	8.46	2.45	84	
+Parise Zach	Hyokkaaja	Minnesota	47	18	22	40	154	362.0	397	8.45	2.33	76	
+Kane Evander	Hyokkaaja	San Jose	61	24	23	47	221	380.0	514	8.43	2.22	75		
+Duchene Matt	Hyokkaaja	Columbus	57	23	33	56	129	350.0	480	8.42	2.41	75	
+Ristolainen Rasmus	Puolustaja	Buffalo	47	5	23	28	107	344.0	395	8.40	2.44	84	
+Domingue Louis	Maalivahti	Tampa Bay	21	0	1	1	0	300.0	176	8.38	2.79	67	
+McDonagh Ryan	Puolustaja	Tampa Bay	63	5	30	35	92	375.0	528	8.38	2.23	67		
+McAvoy Charlie	Puolustaja	Boston	37	3	20	23	51	385.0	307	8.30	2.16	74	
+Tuch Alex	Hyokkaaja	Vegas	56	19	29	48	145	315.0	464	8.29	2.63	91	
+Krug Torey	Puolustaja	Boston	46	5	33	38	120	390.0	381	8.28	2.12	74	
+Suter Ryan	Puolustaja	Minnesota	48	5	24	29	79	379.0	397	8.27	2.18	74	
+Hamilton Dougie	Puolustaja	Carolina	64	13	16	29	207	410.0	528	8.25	2.01	74	
+Oshie T.J.	Hyokkaaja	Washington	51	18	21	39	109	375.0	419	8.22	2.19	82	
+Subban P.K.	Puolustaja	Nashville	45	6	17	23	108	380.0	369	8.20	2.16	73	
+Josi Roman	Puolustaja	Nashville	63	8	28	36	218	400.0	513	8.14	2.04	73	
+Couturier Sean	Hyokkaaja	Philadelphia	44	16	19	35	117	400.0	358	8.14	2.03	73	
+Barkov Aleksander	Hyokkaaja	Florida	48	18	30	48	119	432.0	389	8.10	1.88	72	
+Benn Jamie	Hyokkaaja	Dallas	62	22	22	44	152	380.0	501	8.08	2.13	88	
+Getzlaf Ryan	Hyokkaaja	Anaheim	43	10	20	30	100	365.0	347	8.07	2.21	88	
+Yandle Keith	Puolustaja	Florida	48	7	33	40	125	384.0	386	8.04	2.09	72	
+Kreider Chris	Hyokkaaja	NY Rangers	47	20	15	35	128	348.0	378	8.04	2.31	56	
+Tarasenko Vladimir	Hyokkaaja	St. Louis	59	24	22	46	216	415.0	473	8.02	1.93	80		
+Anderson Josh	Hyokkaaja	Columbus	63	19	14	33	173	365.0	504	8.00	2.19	72	
+Lee Anders	Hyokkaaja	NY Islanders	63	23	22	45	159	325.0	501	7.95	2.45	79	
+Hintz Roope	Hyokkaaja	Dallas	17	4	7	11	40	285.0	135	7.94	2.79	87	
+Spurgeon Jared	Puolustaja	Minnesota	48	6	19	25	90	396.0	381	7.94	2.00	71	
+Wilson Tom	Hyokkaaja	Washington	46	16	13	29	93	355.0	365	7.93	2.24	79		
+Muzzin Jake	Puolustaja	Toronto	60	7	18	25	110	355.0	473	7.88	2.22	78	
+Brown Dustin	Hyokkaaja	Los Angeles	39	12	16	28	94	308.0	307	7.87	2.56	86	
+Johansen Ryan	Hyokkaaja	Nashville	61	12	40	52	96	370.0	480	7.87	2.13	70	
+Kopitar Anze	Hyokkaaja	Los Angeles	48	13	19	32	97	366.0	377	7.85	2.15	86		
+Staal Jordan	Hyokkaaja	Carolina	44	10	11	21	110	380.0	345	7.84	2.06	70	
+Coleman Blake	Hyokkaaja	New Jersey	46	17	10	27	140	270.0	360	7.83	2.90	54	
+Hornqvist Patric	Hyokkaaja	Pittsburgh	51	17	17	34	160	340.0	398	7.80	2.30	78	
+Marchessault Jonathan	Hyokkaaja	Vegas	64	21	25	46	229	380.0	498	7.78	2.05	85	
+Backlund Mikael	Hyokkaaja	Calgary	60	16	21	37	164	345.0	465	7.75	2.25	85	
+Backstrom Nicklas	Hyokkaaja	Washington	62	19	39	58	125	370.0	479	7.73	2.09	77	
+Huberdeau Jonathan	Hyokkaaja	Florida	48	14	35	49	120	395.0	370	7.71	1.95	69	
+Dubois Pierre-Luc	Hyokkaaja	Columbus	63	20	28	48	137	335.0	485	7.70	2.30	69	
+Pietrangelo Alex	Puolustaja	St. Louis	55	6	22	28	125	380.0	420	7.64	2.01	76	
+Tkachuk Brady	Hyokkaaja	Ottawa	39	12	12	24	103	344.0	297	7.62	2.21	68		
+Gallagher Brendan	Hyokkaaja	Montreal	50	18	11	29	180	388.0	380	7.60	1.96	68	
+Domi Max	Hyokkaaja	Montreal	50	16	29	45	106	373.0	379	7.58	2.03	68	
+Pavelski Joe	Hyokkaaja	San Jose	60	28	18	46	147	370.0	455	7.58	2.05	68	
+Kempny Michal	Puolustaja	Washington	53	5	14	19	84	300.0	401	7.57	2.52	75	
+Schmidt Nate	Puolustaja	Vegas	44	5	16	21	66	360.0	332	7.55	2.10	83	
+Doughty Drew	Puolustaja	Los Angeles	49	5	23	28	95	352.0	370	7.55	2.15	83	
+Teravainen Teuvo	Hyokkaaja	Carolina	64	14	44	58	128	365.0	479	7.48	2.05	67	
+Miller Colin	Puolustaja	Vegas	49	2	23	25	88	350.0	366	7.47	2.13	82	
+Pacioretty Max	Hyokkaaja	Vegas	49	16	17	33	139	350.0	364	7.43	2.12	81	
+Byron Paul	Hyokkaaja	Montreal	33	10	9	19	62	302.0	245	7.42	2.46	66	
+Connor Kyle	Hyokkaaja	Winnipeg	63	26	26	52	179	350.0	466	7.40	2.11	73	
+Couture Logan	Hyokkaaja	San Jose	66	23	34	57	166	355.0	487	7.38	2.08	66	
+Faulk Justin	Puolustaja	Carolina	64	6	20	26	180	365.0	472	7.38	2.02	66	
+Gardiner Jake	Puolustaja	Toronto	47	3	21	24	57	305.0	346	7.36	2.41	73	
+Pionk Neal	Puolustaja	NY Rangers	41	5	15	20	79	241.0	301	7.34	3.05	51	
+Nurse Darnell	Puolustaja	Edmonton	49	5	17	22	115	348.0	359	7.33	2.11	73	
+Malkin Evgeni	Hyokkaaja	Pittsburgh	54	13	45	58	144	425.0	395	7.31	1.72	73	
+Klefbom Oscar	Puolustaja	Edmonton	30	3	11	14	91	323.0	219	7.30	2.26	73	
+Tatar Tomas	Hyokkaaja	Montreal	50	16	21	37	121	322.0	365	7.30	2.27	65	
+Dahlin Rasmus	Puolustaja	Buffalo	47	5	21	26	89	351.0	342	7.28	2.07	72	
+Hoffman Mike	Hyokkaaja	Florida	48	22	19	41	153	343.0	349	7.27	2.12	65	
+Nugent-Hopkins Ryan	Hyokkaaja	Edmonton	49	15	28	43	126	305.0	355	7.24	2.38	72		
+Lindell Esa	Puolustaja	Dallas	64	8	12	20	109	320.0	462	7.22	2.26	79	
+Staal Eric	Hyokkaaja	Minnesota	47	15	18	33	141	328.0	339	7.21	2.20	64	
+Murphy Connor	Puolustaja	Chicago	20	1	4	5	34	314.0	144	7.20	2.29	64	
+DeAngelo Tony	Puolustaja	NY Rangers	30	4	9	13	58	357.0	216	7.20	2.02	50	
+Gudas Radko	Puolustaja	Philadelphia	44	2	10	12	79	280.0	316	7.18	2.56	64	
+Danault Phillip	Hyokkaaja	Montreal	50	8	24	32	84	339.0	359	7.18	2.12	64	
+Shaw Andrew	Hyokkaaja	Montreal	36	12	12	24	80	342.0	258	7.17	2.10	64	
+Perron David	Hyokkaaja	St. Louis	56	21	23	44	108	355.0	401	7.16	2.02	71	
+Dadonov Evgenii	Hyokkaaja	Florida	48	17	23	40	125	293.0	343	7.15	2.44	64	
+DeKeyser Danny	Puolustaja	Detroit	25	1	10	11	28	277.0	178	7.12	2.57	78	
+Pulock Ryan	Puolustaja	NY Islanders	63	5	17	22	142	355.0	448	7.11	2.00	71	
+Ellis Ryan	Puolustaja	Nashville	63	5	23	28	121	345.0	448	7.11	2.06	64	
+DeBrincat Alex	Hyokkaaja	Chicago	49	23	18	41	142	384.0	348	7.10	1.85	63	
+Foligno Nick	Hyokkaaja	Columbus	54	13	17	30	101	310.0	383	7.09	2.29	63	
+Cernak Erik	Puolustaja	Tampa Bay	43	2	9	11	77	330.0	305	7.09	2.15	56		
+Gustafsson Erik	Puolustaja	Chicago	48	8	20	28	83	397.0	340	7.08	1.78	63	
+Brodie T.J.	Puolustaja	Calgary	62	7	21	28	76	315.0	438	7.06	2.24	77	
+Juulsen Noah	Puolustaja	Montreal	17	1	4	5	18	255.0	120	7.06	2.77	63	
+Frolik Michael	Hyokkaaja	Calgary	48	13	15	28	97	300.0	338	7.04	2.35	77	
+Hamonic Travis	Puolustaja	Calgary	52	3	11	14	98	300.0	366	7.04	2.35	77	
+Dumoulin Brian	Puolustaja	Pittsburgh	59	2	14	16	79	300.0	415	7.03	2.34	70	
+Hronek Filip	Puolustaja	Detroit	1	0	0	0	3	257.0	7	7.00	2.72	77	
+Parayko Colton	Puolustaja	St. Louis	63	8	12	20	132	340.0	441	7.00	2.06	70	
+Zucker Jason	Hyokkaaja	Minnesota	47	16	10	26	126	332.0	329	7.00	2.11	63		
+Dunn Vince	Puolustaja	St. Louis	61	8	20	28	111	295.0	426	6.98	2.37	69	
+Werenski Zach	Puolustaja	Columbus	63	11	25	36	133	335.0	439	6.97	2.08	62	
+Pesce Brett	Puolustaja	Carolina	55	4	16	20	72	320.0	381	6.93	2.16	62	
+Sergachev Mikhail	Puolustaja	Tampa Bay	58	3	24	27	100	320.0	402	6.93	2.17	55	
+Jenner Boone	Hyokkaaja	Columbus	62	14	15	29	135	330.0	428	6.90	2.09	62	
+Reinhart Sam	Hyokkaaja	Buffalo	47	11	32	43	96	343.0	324	6.89	2.01	68	
+Watson Austin	Hyokkaaja	Nashville	36	6	9	15	61	315.0	248	6.89	2.19	62		
+Ferland Micheal	Hyokkaaja	Carolina	53	12	17	29	126	285.0	363	6.85	2.40	61	
+Nyquist Gustav	Hyokkaaja	San Jose	65	17	35	52	158	325.0	445	6.85	2.11	61	
+Laine Patrik	Hyokkaaja	Winnipeg	63	26	13	39	192	345.0	431	6.84	1.98	68	
+Schenn Brayden	Hyokkaaja	St. Louis	61	13	27	40	143	360.0	416	6.82	1.89	68	
+Sissons Colton	Hyokkaaja	Nashville	56	14	12	26	88	285.0	382	6.82	2.39	61	
+Ekblad Aaron	Puolustaja	Florida	48	10	12	22	111	344.0	327	6.81	1.98	61	
+Mayfield Scott	Puolustaja	NY Islanders	61	4	15	19	86	250.0	415	6.80	2.72	68		
+Kadri Nazem	Hyokkaaja	Toronto	61	13	26	39	148	295.0	412	6.75	2.29	67	
+Hanifin Noah	Puolustaja	Calgary	62	4	25	29	87	270.0	418	6.74	2.50	74		
+Vatrano Frank	Hyokkaaja	Florida	47	16	10	26	123	259.0	314	6.68	2.58	60	
+Tolvanen Eeli	Hyokkaaja	Nashville	3	1	1	2	2	230.0	20	6.67	2.90	60	
+Niskanen Matt	Puolustaja	Washington	62	7	14	21	124	320.0	413	6.66	2.08	66	
+Ekman-Larsson Oliver	Puolustaja	Arizona	48	5	19	24	100	349.0	319	6.65	1.90	53	
+Comtois Max	Hyokkaaja	Anaheim	10	2	5	7	9	250.0	66	6.60	2.64	72	
+Kuznetsov Evgeny	Hyokkaaja	Washington	58	13	39	52	154	385.0	383	6.60	1.72	66	
+Barzal Mathew	Hyokkaaja	NY Islanders	63	15	36	51	136	315.0	416	6.60	2.10	66	
+Hunt Brad	Puolustaja	Minnesota	10	2	3	5	23	230.0	66	6.60	2.87	59	
+Dzingel Ryan	Hyokkaaja	Columbus	63	24	23	47	125	275.0	416	6.60	2.40	59	
+Hischier Nico	Hyokkaaja	New Jersey	42	13	18	31	96	335.0	277	6.60	1.97	46	
+Bayreuther Gavin	Puolustaja	Dallas	12	2	3	5	17	310.0	79	6.58	2.12	72	
+DeMelo Dylan	Puolustaja	Ottawa	45	3	11	14	62	237.0	295	6.56	2.77	59	
+Murray Ryan	Puolustaja	Columbus	45	1	20	21	58	260.0	295	6.56	2.52	59	
+Smith Reilly	Hyokkaaja	Vegas	56	14	24	38	131	365.0	367	6.55	1.80	72	
+Nelson Brock	Hyokkaaja	NY Islanders	63	19	20	39	130	320.0	412	6.54	2.04	65	
+Athanasiou Andreas	Hyokkaaja	Detroit	44	18	13	31	133	276.0	287	6.52	2.36	71	
+Garland Conor	Hyokkaaja	Arizona	21	9	3	12	57	235.0	137	6.52	2.78	52	
+Johnson Tyler	Hyokkaaja	Tampa Bay	61	24	16	40	123	320.0	398	6.52	2.04	52	
+Drouin Jonathan	Hyokkaaja	Montreal	50	14	23	37	124	329.0	325	6.50	1.98	58	
+Beleskey Matt	Hyokkaaja	NY Rangers	2	1	0	1	3	210.0	13	6.50	3.10	45	
+Hayes Kevin	Hyokkaaja	Winnipeg	53	12	27	39	110	315.0	344	6.49	2.06	64	
+Savard David	Puolustaja	Columbus	63	7	13	20	89	290.0	409	6.49	2.24	58	
+Eakin Cody	Hyokkaaja	Vegas	60	19	15	34	95	285.0	389	6.48	2.27	71	
+Boychuk Johnny	Puolustaja	NY Islanders	55	3	11	14	124	305.0	356	6.47	2.12	64	
+Aston-Reese Zach	Hyokkaaja	Pittsburgh	32	7	4	11	54	250.0	206	6.44	2.58	64	
+Chara Zdeno	Puolustaja	Boston	45	4	6	10	74	325.0	290	6.44	1.98	58	
+Chiasson Alex	Hyokkaaja	Edmonton	40	17	7	24	63	272.0	257	6.42	2.36	64	
+Soderberg Carl	Hyokkaaja	Colorado	65	19	18	37	139	295.0	417	6.42	2.17	57	
+Zadorov Nikita	Puolustaja	Colorado	52	4	5	9	70	320.0	334	6.42	2.01	57	
+Glendening Luke	Hyokkaaja	Detroit	49	8	9	17	69	252.0	314	6.41	2.54	70	
+Kapanen Kasperi	Hyokkaaja	Toronto	58	16	16	32	125	305.0	372	6.41	2.10	64	
+Lindholm Hampus	Puolustaja	Anaheim	43	3	14	17	77	315.0	275	6.40	2.03	70	
+Pelech Adam	Puolustaja	NY Islanders	59	3	14	17	81	285.0	377	6.39	2.24	63	
+Hyman Zach	Hyokkaaja	Toronto	52	13	15	28	104	300.0	332	6.38	2.13	63	
+Chychrun Jakob	Puolustaja	Arizona	32	4	9	13	79	284.0	204	6.38	2.24	51	
+Cizikas Casey	Hyokkaaja	NY Islanders	54	14	10	24	83	250.0	344	6.37	2.55	63	
+Montour Brandon	Puolustaja	Buffalo	50	5	16	21	102	293.0	318	6.36	2.17	63	
+Voracek Jakub	Hyokkaaja	Philadelphia	46	11	27	38	113	370.0	291	6.33	1.71	56	
+van Riemsdyk James	Hyokkaaja	Philadelphia	31	11	10	21	64	335.0	196	6.32	1.89	56		
+Bertuzzi Tyler	Hyokkaaja	Detroit	47	13	15	28	74	275.0	296	6.30	2.29	69	
+Ritchie Nick	Hyokkaaja	Anaheim	35	6	14	20	48	255.0	220	6.29	2.46	69	
+Hagg Robert	Puolustaja	Philadelphia	46	4	7	11	63	240.0	289	6.28	2.62	56	
+Svechnikov Andrei	Hyokkaaja	Carolina	64	17	13	30	154	295.0	402	6.28	2.13	56	
+Stralman Anton	Puolustaja	Tampa Bay	32	2	10	12	38	275.0	201	6.28	2.28	50		
+Seabrook Brent	Puolustaja	Chicago	48	4	13	17	101	344.0	299	6.23	1.81	56	
+McCabe Jake	Puolustaja	Buffalo	38	4	8	12	42	230.0	236	6.21	2.70	62	
+Lowry Adam	Hyokkaaja	Winnipeg	61	11	9	20	82	265.0	379	6.21	2.34	62	
+Myers Tyler	Puolustaja	Winnipeg	61	4	15	19	116	335.0	378	6.20	1.85	61	
+Rakell Rickard	Hyokkaaja	Anaheim	37	8	15	23	105	305.0	229	6.19	2.03	68	
+Dillon Brenden	Puolustaja	San Jose	67	1	18	19	59	255.0	415	6.19	2.43	55	
+Kulak Brett	Puolustaja	Montreal	27	3	4	7	46	236.0	167	6.19	2.62	55	
+Carter Jeff	Hyokkaaja	Los Angeles	48	10	15	25	124	265.0	296	6.17	2.33	67	
+Ehlers Nikolaj	Hyokkaaja	Winnipeg	55	20	14	34	133	285.0	339	6.16	2.16	61	
+Richardson Brad	Hyokkaaja	Arizona	39	10	5	15	71	304.0	240	6.15	2.02	49	
+Bjugstad Nick	Hyokkaaja	Pittsburgh	49	12	9	21	124	310.0	301	6.14	1.98	61	
+Karlsson William	Hyokkaaja	Vegas	64	20	24	44	126	360.0	392	6.12	1.70	67	
+Zajac Travis	Hyokkaaja	New Jersey	45	10	16	26	72	285.0	275	6.11	2.14	42	
+Tanev Brandon	Hyokkaaja	Winnipeg	61	11	13	24	94	260.0	371	6.08	2.34	60	
+Krejci David	Hyokkaaja	Boston	63	15	39	54	107	335.0	383	6.08	1.81	54	
+Armia Joel	Hyokkaaja	Montreal	26	6	6	12	59	257.0	158	6.08	2.36	54	
+Koivu Mikko	Hyokkaaja	Minnesota	43	7	21	28	77	285.0	261	6.07	2.13	54	
+Skjei Brady	Puolustaja	NY Rangers	44	3	10	13	60	302.0	267	6.07	2.01	42	
+Slavin Jaccob	Puolustaja	Carolina	64	7	19	26	125	285.0	388	6.06	2.13	54	
+Benn Jordie	Puolustaja	Montreal	49	4	8	12	55	272.0	297	6.06	2.23	54	
+Smith Craig	Hyokkaaja	Nashville	63	17	14	31	166	325.0	382	6.06	1.87	54	
+Vrana Jakub	Hyokkaaja	Washington	64	20	14	34	127	285.0	387	6.05	2.12	60	
+Edmundson Joel	Puolustaja	St. Louis	48	1	8	9	70	255.0	290	6.04	2.37	60		
+Oleksiak Jamie	Puolustaja	Dallas	39	4	6	10	37	225.0	235	6.03	2.68	66	
+Rust Bryan	Hyokkaaja	Pittsburgh	54	9	14	23	103	300.0	324	6.00	2.00	60	
+Gagner Sam	Hyokkaaja	Edmonton	1	0	1	1	3	251.0	6	6.00	2.39	60	
+Wilson Scott	Hyokkaaja	Buffalo	1	0	1	1	2	221.0	6	6.00	2.71	60	
+Batherson Drake	Hyokkaaja	Ottawa	13	3	4	7	11	250.0	78	6.00	2.40	54	
+Miller Kevan	Puolustaja	Boston	26	0	4	4	27	255.0	156	6.00	2.35	54	
+Theodore Shea	Puolustaja	Vegas	61	7	19	26	150	355.0	365	5.98	1.69	65	
+Lehkonen Artturi	Hyokkaaja	Montreal	50	8	17	25	109	243.0	299	5.98	2.46	53	
+Hainsey Ron	Puolustaja	Toronto	61	4	15	19	64	245.0	364	5.97	2.44	59	
+Severson Damon	Puolustaja	New Jersey	46	6	16	22	84	315.0	274	5.96	1.89	41	
+Zuccarello Mats	Hyokkaaja	Dallas	35	7	16	23	64	325.0	208	5.94	1.83	65	
+Bonino Nick	Hyokkaaja	Nashville	62	16	17	33	90	245.0	368	5.94	2.42	53	
+Girardi Dan	Puolustaja	Tampa Bay	47	3	10	13	50	240.0	279	5.94	2.47	47	
+Kase Ondrej	Hyokkaaja	Anaheim	29	8	9	17	89	260.0	172	5.93	2.28	65	
+Cirelli Anthony	Hyokkaaja	Tampa Bay	63	13	15	28	97	270.0	373	5.92	2.19	47	
+Grabner Michael	Hyokkaaja	Arizona	25	6	4	10	44	265.0	148	5.92	2.23	47	
+Konecny Travis	Hyokkaaja	Philadelphia	46	12	14	26	111	325.0	272	5.91	1.82	53	
+Gourde Yanni	Hyokkaaja	Tampa Bay	61	16	20	36	97	305.0	359	5.89	1.93	47	
+Granlund Mikael	Hyokkaaja	Nashville	60	12	27	39	132	310.0	353	5.88	1.90	52	
+Bailey Josh	Hyokkaaja	NY Islanders	63	13	28	41	96	270.0	369	5.86	2.17	58	
+Schultz Justin	Puolustaja	Pittsburgh	21	1	9	10	37	340.0	123	5.86	1.72	58	
+Johnson Erik	Puolustaja	Colorado	63	5	15	20	112	315.0	369	5.86	1.86	52	
+Carrier William	Hyokkaaja	Vegas	48	8	1	9	79	225.0	281	5.85	2.60	64	
+Gostisbehere Shayne	Puolustaja	Philadelphia	46	5	14	19	112	335.0	269	5.85	1.75	52	
+Henrique Adam	Hyokkaaja	Anaheim	49	9	18	27	71	265.0	286	5.84	2.20	64	
+Martinez Alec	Puolustaja	Los Angeles	37	3	8	11	44	329.0	216	5.84	1.77	64	
+Bogosian Zach	Puolustaja	Buffalo	42	3	8	11	62	294.0	245	5.83	1.98	58		
+Pettersson Marcus	Puolustaja	Pittsburgh	53	0	18	18	60	285.0	308	5.81	2.04	58	
+Panik Richard	Hyokkaaja	Arizona	46	9	11	20	86	281.0	267	5.80	2.07	46	
+Manson Josh	Puolustaja	Anaheim	46	3	7	10	57	265.0	265	5.76	2.17	63	
+Maatta Olli	Puolustaja	Pittsburgh	49	1	11	12	62	265.0	282	5.76	2.17	57	
+Thornton Joe	Hyokkaaja	San Jose	58	14	25	39	72	315.0	334	5.76	1.83	51	
+Kuraly Sean	Hyokkaaja	Boston	55	8	10	18	108	250.0	316	5.75	2.30	51	
+Keller Clayton	Hyokkaaja	Arizona	49	12	22	34	118	287.0	281	5.73	2.00	45	
+Mantha Anthony	Hyokkaaja	Detroit	36	11	8	19	99	335.0	206	5.72	1.71	62	
+McNabb Brayden	Puolustaja	Vegas	63	2	12	14	68	255.0	360	5.71	2.24	62	
+Haula Erik	Hyokkaaja	Vegas	14	2	5	7	26	285.0	80	5.71	2.01	62	
+Filppula Valtteri	Hyokkaaja	NY Islanders	53	17	10	27	61	245.0	302	5.70	2.33	56		
+Johnsson Andreas	Hyokkaaja	Toronto	54	11	18	29	98	260.0	307	5.69	2.19	56	
+Orlov Dmitry	Puolustaja	Washington	64	3	19	22	80	330.0	364	5.69	1.72	56	
+Butler Chris	Puolustaja	St. Louis	3	0	1	1	2	215.0	17	5.67	2.64	56	
+Plekanec Tomas	Hyokkaaja	Montreal	3	1	0	1	8	260.0	17	5.67	2.18	51	
+Baertschi Sven	Hyokkaaja	Vancouver	21	8	5	13	37	270.0	119	5.67	2.10	45	
+Greene Andy	Puolustaja	New Jersey	46	2	10	12	56	255.0	261	5.67	2.23	39	
+Vatanen Sami	Puolustaja	New Jersey	43	4	12	16	92	290.0	244	5.67	1.96	39	
+Ryan Bobby	Hyokkaaja	Ottawa	47	11	20	31	98	268.0	266	5.66	2.11	50	
+Paquette Cedric	Hyokkaaja	Tampa Bay	61	11	1	12	72	250.0	344	5.64	2.26	45	
+Nielsen Frans	Hyokkaaja	Detroit	46	7	20	27	71	232.0	259	5.63	2.43	61		
+Chiarot Ben	Puolustaja	Winnipeg	60	5	7	12	82	285.0	337	5.62	1.97	56	
+DeBrusk Jake	Hyokkaaja	Boston	50	19	7	26	114	320.0	281	5.62	1.76	50		
+Holden Nick	Puolustaja	Vegas	57	3	12	15	74	245.0	319	5.60	2.28	61		
+Blueger Teddy	Hyokkaaja	Pittsburgh	17	3	3	6	19	235.0	95	5.59	2.38	55	
+Niederreiter Nino	Hyokkaaja	Carolina	63	17	18	35	127	340.0	352	5.59	1.64	50	
+Bozak Tyler	Hyokkaaja	St. Louis	55	11	19	30	110	270.0	307	5.58	2.07	55	
+Schwartz Jaden	Hyokkaaja	St. Louis	52	8	19	27	141	300.0	290	5.58	1.86	55	
+Stone Michael	Puolustaja	Calgary	14	0	5	5	12	215.0	78	5.57	2.59	61	
+Kuhlman Karson	Hyokkaaja	Boston	7	2	1	3	11	230.0	39	5.57	2.42	50	
+Killorn Alex	Hyokkaaja	Tampa Bay	63	16	15	31	116	280.0	350	5.56	1.98	44	
+Stecher Troy	Puolustaja	Vancouver	45	1	14	15	48	248.0	249	5.53	2.23	44	
+Williams Justin	Hyokkaaja	Carolina	64	16	21	37	171	320.0	353	5.52	1.72	49	
+Miller J.T.	Hyokkaaja	Tampa Bay	56	8	27	35	77	290.0	309	5.52	1.90	44		
+Ouellet Xavier	Puolustaja	Montreal	10	0	3	3	19	240.0	55	5.50	2.29	49	
+Laughton Scott	Hyokkaaja	Philadelphia	46	7	12	19	61	230.0	253	5.50	2.39	49	
+Middleton Jacob	Puolustaja	San Jose	2	0	1	1	0	205.0	11	5.50	2.68	49		
+Leddy Nick	Puolustaja	NY Islanders	63	3	19	22	88	300.0	345	5.48	1.83	54	
+Palat Ondrej	Hyokkaaja	Tampa Bay	48	8	17	25	77	285.0	263	5.48	1.92	43	
+Orpik Brooks	Puolustaja	Washington	36	2	3	5	32	240.0	197	5.47	2.28	54	
+Saad Brandon	Hyokkaaja	Chicago	47	13	11	24	115	328.0	257	5.47	1.67	49	
+Russell Kris	Puolustaja	Edmonton	39	2	6	8	34	259.0	213	5.46	2.11	54	
+Labanc Kevin	Hyokkaaja	San Jose	67	11	33	44	109	310.0	366	5.46	1.76	49	
+Larsson Adam	Puolustaja	Edmonton	49	1	11	12	62	261.0	267	5.45	2.09	54	
+Smith Zack	Hyokkaaja	Ottawa	41	4	14	18	55	229.0	223	5.44	2.38	48	
+Caggiula Drake	Hyokkaaja	Chicago	36	7	5	12	58	265.0	195	5.42	2.04	48		
+Heiskanen Miro	Puolustaja	Dallas	64	9	14	23	143	265.0	346	5.41	2.04	59	
+de Haan Calvin	Puolustaja	Carolina	58	1	11	12	83	220.0	314	5.41	2.46	48	
+Martinook Jordan	Hyokkaaja	Carolina	64	11	7	18	122	240.0	345	5.39	2.25	48	
+Vesey Jimmy	Hyokkaaja	NY Rangers	46	11	12	23	96	267.0	248	5.39	2.02	37	
+Merrill Jon	Puolustaja	Vegas	40	1	7	8	51	265.0	215	5.38	2.03	59	
+Fowler Cam	Puolustaja	Anaheim	27	3	6	9	42	310.0	145	5.37	1.73	59	
+Steen Alexander	Hyokkaaja	St. Louis	51	9	12	21	98	260.0	274	5.37	2.07	53	
+Schlemko David	Puolustaja	Montreal	14	0	2	2	24	245.0	75	5.36	2.19	48	
+Crouse Lawson	Hyokkaaja	Arizona	48	8	6	14	69	260.0	257	5.35	2.06	42	
+Connolly Brett	Hyokkaaja	Washington	63	13	21	34	106	260.0	336	5.33	2.05	53	
+Boyle Brian	Hyokkaaja	Nashville	54	14	5	19	94	235.0	288	5.33	2.27	48	
+Oesterle Jordan	Puolustaja	Arizona	40	4	9	13	44	288.0	213	5.33	1.85	42	
+Fast Jesper	Hyokkaaja	NY Rangers	42	6	10	16	52	232.0	224	5.33	2.30	37	
+Eberle Jordan	Hyokkaaja	NY Islanders	59	15	13	28	120	300.0	314	5.32	1.77	53	
+Claesson Fredrik	Puolustaja	NY Rangers	25	2	3	5	31	210.0	133	5.32	2.53	37	
+Connauton Kevin	Puolustaja	Arizona	35	0	6	6	56	230.0	186	5.31	2.31	42	
+Gunnarsson Carl	Puolustaja	St. Louis	23	2	4	6	19	220.0	122	5.30	2.41	53	
+Del Zotto Michael	Puolustaja	St. Louis	28	1	5	6	23	225.0	148	5.29	2.35	52	
+Cole Ian	Puolustaja	Colorado	65	2	12	14	74	235.0	344	5.29	2.25	47	
+Stepan Derek	Hyokkaaja	Arizona	48	9	13	22	131	280.0	254	5.29	1.89	42	
+Vlasic Marc-Edouard	Puolustaja	San Jose	57	3	19	22	91	340.0	300	5.26	1.55	47	
+Carlo Brandon	Puolustaja	Boston	54	2	4	6	92	265.0	284	5.26	1.98	47	
+Bennett Sam	Hyokkaaja	Calgary	53	10	11	21	84	245.0	278	5.25	2.14	57	
+Simmonds Wayne	Hyokkaaja	Nashville	59	16	9	25	122	255.0	310	5.25	2.06	47	
+Galchenyuk Alex	Hyokkaaja	Arizona	40	7	16	23	76	337.0	210	5.25	1.56	42	
+Komarov Leo	Hyokkaaja	NY Islanders	63	6	16	22	57	240.0	330	5.24	2.18	52	
+Tierney Chris	Hyokkaaja	Ottawa	49	6	25	31	77	237.0	257	5.24	2.21	47	
+Wagner Chris	Hyokkaaja	Boston	58	8	6	14	100	240.0	304	5.24	2.18	47	
+Compher J.T.	Hyokkaaja	Colorado	49	11	11	22	92	245.0	257	5.24	2.14	47	
+Ceci Cody	Puolustaja	Ottawa	45	5	9	14	78	242.0	236	5.24	2.17	47	
+Joseph Mathieu	Hyokkaaja	Tampa Bay	54	12	9	21	79	225.0	282	5.22	2.32	41	
+Shattenkirk Kevin	Puolustaja	NY Rangers	38	2	11	13	77	335.0	198	5.21	1.56	36	
+Mangiapane Andrew	Hyokkaaja	Calgary	21	5	2	7	38	240.0	109	5.19	2.16	57	
+Maroon Patrick	Hyokkaaja	St. Louis	57	10	14	24	89	280.0	296	5.19	1.85	51	
+White Colin	Hyokkaaja	Ottawa	43	11	15	26	83	235.0	223	5.19	2.21	46	
+Hathaway Garnet	Hyokkaaja	Calgary	58	9	7	16	51	260.0	300	5.17	1.99	56		
+Provorov Ivan	Puolustaja	Philadelphia	46	3	12	15	75	315.0	237	5.15	1.64	46	
+Ryan Derek	Hyokkaaja	Calgary	63	10	18	28	81	320.0	324	5.14	1.61	56	
+Kronwall Niklas	Puolustaja	Detroit	46	2	11	13	47	238.0	236	5.13	2.16	56	
+McCann Jared	Hyokkaaja	Pittsburgh	62	13	14	27	123	315.0	318	5.13	1.63	51	
+Johnson Jack	Puolustaja	Pittsburgh	62	1	10	11	64	250.0	318	5.13	2.05	51	
+Polak Roman	Puolustaja	Dallas	59	1	6	7	70	240.0	302	5.12	2.13	56	
+Little Bryan	Hyokkaaja	Winnipeg	63	12	19	31	95	250.0	322	5.11	2.04	51	
+Backes David	Hyokkaaja	Boston	56	7	13	20	112	255.0	286	5.11	2.00	45	
+Silfverberg Jakob	Hyokkaaja	Anaheim	40	11	7	18	89	280.0	204	5.10	1.82	56	
+Kerfoot Alexander	Hyokkaaja	Colorado	62	13	21	34	97	265.0	316	5.10	1.92	45	
+Virtanen Jake	Hyokkaaja	Vancouver	48	7	8	15	104	255.0	245	5.10	2.00	40	
+Patrick Nolan	Hyokkaaja	Philadelphia	39	8	7	15	68	270.0	198	5.08	1.88	45	
+Keith Duncan	Puolustaja	Chicago	49	2	18	20	82	395.0	249	5.08	1.29	45	
+Pilut Lawrence	Puolustaja	Buffalo	15	1	3	4	18	230.0	76	5.07	2.20	50	
+Bratt Jesper	Hyokkaaja	New Jersey	33	4	16	20	60	260.0	167	5.06	1.95	35	
+Jankowski Mark	Hyokkaaja	Calgary	61	12	15	27	77	230.0	308	5.05	2.20	55	
+Forsling Gustav	Puolustaja	Chicago	19	2	4	6	29	210.0	96	5.05	2.41	45	
+Grzelcyk Matt	Puolustaja	Boston	54	4	14	18	68	250.0	272	5.04	2.01	45	
+Beauvillier Anthony	Hyokkaaja	NY Islanders	62	14	10	24	125	260.0	311	5.02	1.93	50	
+Okposo Kyle	Hyokkaaja	Buffalo	47	9	11	20	97	244.0	236	5.02	2.06	50	
+Coyle Charlie	Hyokkaaja	Boston	64	10	19	29	128	265.0	321	5.02	1.89	45	
+Erne Adam	Hyokkaaja	Tampa Bay	47	6	9	15	56	230.0	236	5.02	2.18	40	
+Hanzal Martin	Hyokkaaja	Dallas	6	1	1	2	10	230.0	30	5.00	2.17	55	
+Eller Lars	Hyokkaaja	Washington	64	11	16	27	127	275.0	320	5.00	1.82	50		
+Pageau Jean-Gabriel	Hyokkaaja	Ottawa	9	1	0	1	20	252.0	45	5.00	1.98	45	
+Goligoski Alex	Puolustaja	Arizona	43	2	13	15	49	286.0	215	5.00	1.75	40	
+Engelland Deryk	Puolustaja	Vegas	56	1	8	9	80	240.0	279	4.98	2.08	54	
+Bowey Madison	Puolustaja	Detroit	32	1	6	7	33	209.0	159	4.97	2.38	54	
+Reaves Ryan	Hyokkaaja	Vegas	62	9	9	18	79	245.0	308	4.97	2.03	54	
+Beaulieu Nathan	Puolustaja	Winnipeg	38	3	7	10	45	250.0	189	4.97	1.99	49	
+Butcher Will	Puolustaja	New Jersey	45	2	14	16	65	260.0	223	4.96	1.91	34	
+Siegenthaler Jonas	Puolustaja	Washington	22	0	4	4	12	230.0	109	4.95	2.15	49	
+Bjorkstrand Oliver	Hyokkaaja	Columbus	58	16	9	25	117	270.0	287	4.95	1.83	44	
+Nutivaara Markus	Puolustaja	Columbus	62	4	15	19	84	235.0	306	4.94	2.10	44	
+Strome Dylan	Hyokkaaja	Chicago	45	11	15	26	84	289.0	222	4.93	1.71	44	
+Hutton Ben	Puolustaja	Vancouver	46	4	11	15	76	235.0	227	4.93	2.10	39	
+Perreault Mathieu	Hyokkaaja	Winnipeg	63	13	14	27	78	275.0	310	4.92	1.79	49	
+McQuaid Adam	Puolustaja	Columbus	36	1	4	5	15	230.0	177	4.92	2.14	44		
+Jokiharju Henri	Puolustaja	Chicago	34	0	11	11	59	220.0	167	4.91	2.23	44	
+Iafallo Alex	Hyokkaaja	Los Angeles	49	10	10	20	87	253.0	240	4.90	1.94	53	
+Matheson Michael	Puolustaja	Florida	46	4	13	17	80	238.0	225	4.89	2.06	44	
+Radil Lukas	Hyokkaaja	San Jose	26	6	3	9	35	200.0	127	4.88	2.44	43	
+Folin Christian	Puolustaja	Montreal	23	0	1	1	22	222.0	112	4.87	2.19	43	
+Sanford Zach	Hyokkaaja	St. Louis	44	7	12	19	56	225.0	214	4.86	2.16	48	
+Benning Matt	Puolustaja	Edmonton	41	2	6	8	56	229.0	199	4.85	2.12	48	
+Faksa Radek	Hyokkaaja	Dallas	62	11	11	22	91	255.0	300	4.84	1.90	53	
+Bortuzzo Robert	Puolustaja	St. Louis	46	1	7	8	56	230.0	222	4.83	2.10	48	
+Blais Sammy	Hyokkaaja	St. Louis	12	2	2	4	11	215.0	58	4.83	2.25	48	
+Staal Marc	Puolustaja	NY Rangers	47	3	8	11	51	230.0	227	4.83	2.10	33	
+Hagelin Carl	Hyokkaaja	Washington	42	4	11	15	69	255.0	202	4.81	1.89	48	
+Martin Matt	Hyokkaaja	NY Islanders	50	5	4	9	43	230.0	240	4.80	2.09	48	
+Donskoi Joonas	Hyokkaaja	San Jose	65	14	17	31	94	245.0	312	4.80	1.96	43	
+Hinostroza Vinnie	Hyokkaaja	Arizona	40	7	11	18	74	268.0	191	4.78	1.78	38	
+Hickey Thomas	Puolustaja	NY Islanders	36	0	4	4	42	220.0	171	4.75	2.16	47	
+Fabbro Dante	Puolustaja	Nashville	4	1	0	1	5	230.0	19	4.75	2.07	42	
+Marleau Patrick	Hyokkaaja	Toronto	62	12	12	24	117	275.0	293	4.73	1.72	47	
+Kotkaniemi Jesperi	Hyokkaaja	Montreal	49	6	17	23	86	245.0	232	4.73	1.93	42	
+Dickinson Jason	Hyokkaaja	Dallas	51	6	11	17	74	225.0	240	4.71	2.09	51	
+Rowney Carter	Hyokkaaja	Anaheim	30	3	9	12	20	235.0	141	4.70	2.00	51	
+Reilly Mike	Puolustaja	Montreal	43	3	5	8	75	230.0	202	4.70	2.04	42	
+Irwin Matt	Puolustaja	Nashville	34	1	6	7	42	235.0	159	4.68	1.99	42	
+Pominville Jason	Hyokkaaja	Buffalo	42	10	9	19	78	246.0	196	4.67	1.90	46	
+Riikola Juuso	Puolustaja	Pittsburgh	24	2	1	3	33	230.0	112	4.67	2.03	46	
+Moore John	Puolustaja	Boston	51	3	9	12	72	230.0	238	4.67	2.03	42	
+Anisimov Artem	Hyokkaaja	Chicago	47	10	13	23	82	261.0	219	4.66	1.79	41	
+Fiala Kevin	Hyokkaaja	Minnesota	51	8	18	26	106	242.0	237	4.65	1.92	41	
+Simon Dominik	Hyokkaaja	Pittsburgh	56	7	16	23	90	240.0	260	4.64	1.93	46	
+Sorensen Marcus	Hyokkaaja	San Jose	67	14	11	25	86	240.0	311	4.64	1.93	41	
+Beagle Jay	Hyokkaaja	Vancouver	27	3	5	8	22	228.0	125	4.63	2.03	37	
+Duclair Anthony	Hyokkaaja	Ottawa	40	10	6	16	73	249.0	185	4.62	1.86	41	
+Pitlick Tyler	Hyokkaaja	Dallas	46	8	4	12	75	235.0	212	4.61	1.96	50	
+Copp Andrew	Hyokkaaja	Winnipeg	51	7	10	17	59	250.0	235	4.61	1.84	46	
+Lindberg Oscar	Hyokkaaja	Ottawa	28	3	6	9	50	237.0	129	4.61	1.94	41	
+Trotman Zach	Puolustaja	Pittsburgh	10	0	1	1	14	225.0	46	4.60	2.04	46	
+Vanek Thomas	Hyokkaaja	Detroit	41	10	11	21	56	249.0	188	4.59	1.84	50	
+Kovalchuk Ilya	Hyokkaaja	Los Angeles	41	9	13	22	85	255.0	188	4.59	1.80	50	
+Scandella Marco	Puolustaja	Buffalo	39	3	6	9	53	224.0	179	4.59	2.05	45	
+Borowiecki Mark	Puolustaja	Ottawa	33	0	3	3	37	252.0	151	4.58	1.82	41	
+Zaitsev Nikita	Puolustaja	Toronto	61	1	10	11	57	240.0	279	4.57	1.91	45	
+Jensen Nick	Puolustaja	Washington	62	2	12	14	65	230.0	283	4.56	1.98	45	
+Dahlstrom Carl	Puolustaja	Chicago	18	0	5	5	18	230.0	82	4.56	1.98	41		
+Dermott Travis	Puolustaja	Toronto	49	3	10	13	73	230.0	223	4.55	1.98	45	
+Toffoli Tyler	Hyokkaaja	Los Angeles	49	8	12	20	136	269.0	222	4.53	1.68	49	
+Sheary Conor	Hyokkaaja	Buffalo	43	7	13	20	77	272.0	195	4.53	1.67	45	
+Brodin Jonas	Puolustaja	Minnesota	48	4	7	11	53	238.0	217	4.52	1.90	40	
+Buchnevich Pavel	Hyokkaaja	NY Rangers	33	11	6	17	44	271.0	149	4.52	1.67	31	
+Clutterbuck Cal	Hyokkaaja	NY Islanders	57	6	10	16	72	235.0	257	4.51	1.92	45	
+Abdelkader Justin	Hyokkaaja	Detroit	49	5	7	12	69	238.0	220	4.49	1.89	49	
+Ladd Andrew	Hyokkaaja	NY Islanders	21	2	4	6	29	235.0	94	4.48	1.90	44	
+Aberg Pontus	Hyokkaaja	Minnesota	40	9	10	19	75	221.0	179	4.47	2.02	40	
+Bitetto Anthony	Puolustaja	Minnesota	17	0	3	3	12	205.0	76	4.47	2.18	40	
+Callahan Ryan	Hyokkaaja	Tampa Bay	45	6	8	14	62	235.0	201	4.47	1.90	35	
+Tanev Christopher	Puolustaja	Vancouver	45	2	6	8	43	230.0	201	4.47	1.94	35	
+Wood Miles	Hyokkaaja	New Jersey	43	4	10	14	103	255.0	192	4.47	1.75	31	
+Dowd Nic	Hyokkaaja	Washington	50	6	11	17	36	240.0	223	4.46	1.86	44	
+Coburn Braydon	Puolustaja	Tampa Bay	59	2	11	13	97	235.0	263	4.46	1.90	35	
+McGinn Brock	Hyokkaaja	Carolina	64	6	13	19	97	230.0	285	4.45	1.94	40	
+Braun Justin	Puolustaja	San Jose	63	2	12	14	92	230.0	280	4.44	1.93	40	
+Carrick Connor	Puolustaja	New Jersey	9	1	3	4	13	230.0	40	4.44	1.93	31	
+Namestnikov Vladislav	Hyokkaaja	NY Rangers	43	4	11	15	59	279.0	191	4.44	1.59	31	
+Boedker Mikkel	Hyokkaaja	Ottawa	49	5	22	27	61	220.0	217	4.43	2.01	39	
+Motte Tyler	Hyokkaaja	Vancouver	47	6	6	12	62	234.0	208	4.43	1.89	35	
+Roussel Antoine	Hyokkaaja	Vancouver	44	4	13	17	51	249.0	194	4.41	1.77	35	
+Dea Jean-Sebastien	Hyokkaaja	Pittsburgh	20	4	2	6	28	225.0	88	4.40	1.96	44	
+Girard Samuel	Puolustaja	Colorado	65	2	19	21	82	260.0	286	4.40	1.69	39	
+Nemeth Patrik	Puolustaja	Colorado	57	1	6	7	48	220.0	251	4.40	2.00	39	
+Sanheim Travis	Puolustaja	Philadelphia	46	3	11	14	64	320.0	202	4.39	1.37	39	
+Wallmark Lucas	Hyokkaaja	Carolina	64	8	13	21	110	235.0	281	4.39	1.87	39	
+Johnston Ross	Hyokkaaja	NY Islanders	13	0	3	3	10	200.0	57	4.38	2.19	43	
+Bouwmeester Jay	Puolustaja	St. Louis	61	3	11	14	61	245.0	267	4.38	1.79	43	
+Heed Tim	Puolustaja	San Jose	29	1	7	8	31	240.0	127	4.38	1.82	39	
+Biega Alex	Puolustaja	Vancouver	13	0	2	2	27	264.0	57	4.38	1.66	35	
+Nylander William	Hyokkaaja	Toronto	35	3	13	16	86	320.0	153	4.37	1.37	43	
+Zacha Pavel	Hyokkaaja	New Jersey	41	7	4	11	69	245.0	179	4.37	1.78	30	
+Rodrigues Evan	Hyokkaaja	Buffalo	42	5	12	17	95	253.0	183	4.36	1.72	43	
+Pouliot Derrick	Puolustaja	Vancouver	43	2	6	8	46	243.0	187	4.35	1.79	34	
+Sprong Daniel	Hyokkaaja	Anaheim	36	8	8	16	67	225.0	156	4.33	1.93	47	
+Sundqvist Oskar	Hyokkaaja	St. Louis	57	12	9	21	86	245.0	247	4.33	1.77	43	
+Simek Radim	Puolustaja	San Jose	27	0	6	6	24	235.0	117	4.33	1.84	39	
+Lajoie Maxime	Puolustaja	Ottawa	43	7	6	13	62	225.0	186	4.33	1.92	38	
+Archibald Josh	Hyokkaaja	Arizona	36	4	4	8	44	248.0	156	4.33	1.75	34	
+Lucic Milan	Hyokkaaja	Edmonton	49	5	6	11	48	257.0	211	4.31	1.68	43	
+Comeau Blake	Hyokkaaja	Dallas	62	5	6	11	86	245.0	266	4.29	1.75	47	
+Luff Matt	Hyokkaaja	Los Angeles	17	5	1	6	22	215.0	73	4.29	2.00	47	
+Schmaltz Nick	Hyokkaaja	Arizona	38	6	18	24	59	255.0	163	4.29	1.68	34	
+Goldobin Nikolay	Hyokkaaja	Vancouver	42	5	17	22	71	232.0	180	4.29	1.85	34	
+Calvert Matt	Hyokkaaja	Colorado	65	8	12	20	103	220.0	278	4.28	1.94	38	
+Hartman Ryan	Hyokkaaja	Philadelphia	50	7	7	14	90	240.0	214	4.28	1.78	38	
+Turris Kyle	Hyokkaaja	Nashville	40	6	13	19	60	260.0	171	4.28	1.64	38	
+Foligno Marcus	Hyokkaaja	Minnesota	48	4	5	9	52	229.0	204	4.25	1.86	38	
+Koekkoek Slater	Puolustaja	Chicago	12	1	1	2	20	231.0	51	4.25	1.84	38	
+Spezza Jason	Hyokkaaja	Dallas	58	6	16	22	92	240.0	246	4.24	1.77	46	
+Harpur Ben	Puolustaja	Ottawa	25	1	2	3	25	217.0	106	4.24	1.95	38	
+Fischer Christian	Hyokkaaja	Arizona	49	11	4	15	81	230.0	208	4.24	1.85	33	
+MacEachern MacKenzie	Hyokkaaja	St. Louis	13	1	3	4	13	210.0	55	4.23	2.01	42	
+Dotchin Jake	Puolustaja	Anaheim	9	0	1	1	5	235.0	38	4.22	1.80	46	
+Pysyk Mark	Puolustaja	Florida	37	0	5	5	35	242.0	156	4.22	1.74	37	
+Dubinsky Brandon	Hyokkaaja	Columbus	50	5	7	12	49	235.0	211	4.22	1.80	37	
+Kesler Ryan	Hyokkaaja	Anaheim	42	4	2	6	63	270.0	177	4.21	1.56	46	
+Gudbranson Erik	Puolustaja	Pittsburgh	60	2	6	8	75	230.0	252	4.20	1.83	42	
+Salomaki Miikka	Hyokkaaja	Nashville	35	3	4	7	49	225.0	147	4.20	1.87	37	
+Cousins Nick	Hyokkaaja	Arizona	49	4	10	14	92	244.0	206	4.20	1.72	33	
+Yakovlev Egor	Puolustaja	New Jersey	10	1	3	4	10	225.0	42	4.20	1.87	29	
+Neal James	Hyokkaaja	Calgary	54	7	9	16	120	255.0	226	4.19	1.64	46	
+Grant Derek	Hyokkaaja	Anaheim	26	3	2	5	30	230.0	109	4.19	1.82	46	
+Suomela Antti	Hyokkaaja	San Jose	11	1	3	4	24	235.0	46	4.18	1.78	37	
+Wilson Colin	Hyokkaaja	Colorado	56	10	12	22	89	235.0	234	4.18	1.78	37	
+Andersson Rasmus	Puolustaja	Calgary	61	0	12	12	85	255.0	254	4.16	1.63	45	
+Nosek Tomas	Hyokkaaja	Vegas	57	7	8	15	102	235.0	237	4.16	1.77	45	
+Noesen Stefan	Hyokkaaja	New Jersey	26	2	5	7	30	225.0	108	4.15	1.85	29	
+Nelson Casey	Puolustaja	Buffalo	22	1	4	5	18	205.0	91	4.14	2.02	41	
+Ericsson Jonathan	Puolustaja	Detroit	31	3	2	5	28	220.0	128	4.13	1.88	45	
+Smith Brendan	Puolustaja	NY Rangers	31	2	6	8	29	223.0	128	4.13	1.85	28	
+MacDonald Andrew	Puolustaja	Philadelphia	26	0	5	5	28	220.0	107	4.12	1.87	37	
+Jarnkrok Calle	Hyokkaaja	Nashville	60	7	13	20	77	220.0	247	4.12	1.87	37	
+Hjalmarsson Niklas	Puolustaja	Arizona	49	0	5	5	37	251.0	202	4.12	1.64	32	
+Heinen Danton	Hyokkaaja	Boston	61	7	16	23	89	245.0	251	4.11	1.68	37	
+Valimaki Juuso	Puolustaja	Calgary	22	1	2	3	28	220.0	90	4.09	1.86	45	
+Lovejoy Ben	Puolustaja	Dallas	57	1	5	6	82	230.0	233	4.09	1.78	44	
+Sceviour Colton	Hyokkaaja	Florida	43	3	9	12	90	235.0	176	4.09	1.74	36	
+Harrington Scott	Puolustaja	Columbus	54	1	9	10	38	220.0	220	4.07	1.85	36	
+Rutta Jan	Puolustaja	Tampa Bay	36	2	6	8	40	230.0	146	4.06	1.76	32	
+Eriksson Ek Joel	Hyokkaaja	Minnesota	21	1	3	4	40	259.0	85	4.05	1.56	36	
+Maenalanen Saku	Hyokkaaja	Carolina	19	4	2	6	23	210.0	77	4.05	1.93	36	
+Kylington Oliver	Puolustaja	Calgary	27	3	3	6	16	225.0	109	4.04	1.79	44	
+Johansson Marcus	Hyokkaaja	Boston	40	8	10	18	74	260.0	161	4.03	1.55	36	
+Weegar MacKenzie	Puolustaja	Florida	42	0	6	6	55	241.0	169	4.02	1.67	36	
+Cholowski Dennis	Puolustaja	Detroit	44	6	8	14	63	215.0	176	4.00	1.86	44	
+Carpenter Ryan	Hyokkaaja	Vegas	60	4	11	15	89	230.0	240	4.00	1.74	44	
+Walker Nathan	Hyokkaaja	Washington	3	0	1	1	2	195.0	12	4.00	2.05	40	
+Cullen Matt	Hyokkaaja	Pittsburgh	52	6	9	15	60	220.0	208	4.00	1.82	40	
+Wideman Chris	Puolustaja	Edmonton	20	2	3	5	20	220.0	80	4.00	1.82	40	
+Hawryluk Jayce	Hyokkaaja	Florida	1	0	0	0	4	234.0	4	4.00	1.71	36		
+Kukan Dean	Puolustaja	Columbus	17	0	2	2	12	215.0	68	4.00	1.86	36	
+Bishop Clark	Hyokkaaja	Carolina	9	1	1	2	11	210.0	36	4.00	1.90	36	
+Demers Jason	Puolustaja	Arizona	18	1	2	3	21	239.0	72	4.00	1.67	32	
+Lemieux Brendan	Hyokkaaja	NY Rangers	32	6	3	9	28	249.0	128	4.00	1.61	28	
+Acciari Noel	Hyokkaaja	Boston	56	4	6	10	78	235.0	223	3.98	1.69	35	
+Bellemare Pierre-Edouard	Hyokkaaja	Vegas	58	5	6	11	80	230.0	230	3.97	1.72	43	
+Raffl Michael	Hyokkaaja	Philadelphia	33	3	5	8	34	220.0	130	3.94	1.79	35	
+Pearson Tanner	Hyokkaaja	Vancouver	48	8	6	14	90	243.0	189	3.94	1.62	31	
+Shore Devin	Hyokkaaja	Anaheim	45	4	9	13	45	235.0	176	3.91	1.66	43	
+Goodrow Barclay	Hyokkaaja	San Jose	67	7	7	14	68	230.0	262	3.91	1.70	35	
+Kampfer Steven	Puolustaja	Boston	33	3	3	6	38	220.0	129	3.91	1.78	35	
+Sherwood Kiefer	Hyokkaaja	Anaheim	31	3	5	8	37	225.0	121	3.90	1.73	42	
+Clifford Kyle	Hyokkaaja	Los Angeles	41	7	1	8	61	231.0	160	3.90	1.69	42	
+Khaira Jujhar	Hyokkaaja	Edmonton	45	3	12	15	45	228.0	175	3.89	1.71	38	
+Lyubushkin Ilya	Puolustaja	Arizona	28	0	3	3	17	225.0	109	3.89	1.73	31	
+Hudon Charles	Hyokkaaja	Montreal	25	3	2	5	39	225.0	97	3.88	1.72	34	
+Leivo Josh	Hyokkaaja	Vancouver	45	8	3	11	87	245.0	174	3.87	1.58	30	
+Martel Danick	Hyokkaaja	Tampa Bay	7	0	1	1	13	200.0	27	3.86	1.93	30	
+Forbort Derek	Puolustaja	Los Angeles	48	1	7	8	45	209.0	185	3.85	1.84	42	
+Brassard Derick	Hyokkaaja	Colorado	53	9	6	15	81	240.0	204	3.85	1.60	34	
+Greenway Jordan	Hyokkaaja	Minnesota	47	8	7	15	61	233.0	181	3.85	1.65	34	
+Barbashev Ivan	Hyokkaaja	St. Louis	63	12	10	22	42	235.0	242	3.84	1.63	38	
+Petrovic Alex	Puolustaja	Edmonton	31	0	2	2	41	210.0	119	3.84	1.83	38	
+Fedun Taylor	Puolustaja	Dallas	39	3	3	6	57	220.0	149	3.82	1.74	42	
+Kuhnhackl Tom	Hyokkaaja	NY Islanders	28	2	5	7	25	220.0	107	3.82	1.74	38	
+Lindblom Oskar	Hyokkaaja	Philadelphia	45	5	9	14	67	280.0	172	3.82	1.37	34	
+Kiselevich Bogdan	Puolustaja	Winnipeg	31	0	8	8	14	200.0	118	3.81	1.90	38	
+Nordstrom Joakim	Hyokkaaja	Boston	54	7	4	11	81	225.0	206	3.81	1.70	34	
+Jost Tyson	Hyokkaaja	Colorado	42	6	10	16	72	240.0	160	3.81	1.59	34	
+Lindholm Par	Hyokkaaja	Winnipeg	49	1	11	12	50	215.0	186	3.80	1.77	37	
+Weise Dale	Hyokkaaja	Montreal	41	4	6	10	52	218.0	156	3.80	1.75	34	
+Anderson Joey	Hyokkaaja	New Jersey	10	1	1	2	17	220.0	38	3.80	1.73	26	
+Fehr Eric	Hyokkaaja	Minnesota	39	5	6	11	39	224.0	148	3.79	1.69	34	
+Helm Darren	Hyokkaaja	Detroit	30	3	6	9	54	240.0	113	3.77	1.57	41	
+Rasmussen Michael	Hyokkaaja	Detroit	39	5	7	12	39	224.0	147	3.77	1.68	41	
+Brown Connor	Hyokkaaja	Toronto	62	7	17	24	62	230.0	234	3.77	1.64	37	
+Mete Victor	Puolustaja	Montreal	26	0	2	2	28	226.0	98	3.77	1.67	33	
+Kahun Dominik	Hyokkaaja	Chicago	49	7	13	20	80	253.0	184	3.76	1.48	33	
+Chytil Filip	Hyokkaaja	NY Rangers	46	9	8	17	83	207.0	173	3.76	1.82	26	
+Kassian Zack	Hyokkaaja	Edmonton	46	6	3	9	61	266.0	172	3.74	1.41	37	
+Di Giuseppe Phillip	Hyokkaaja	Carolina	15	1	2	3	17	225.0	56	3.73	1.66	33	
+Daley Trevor	Puolustaja	Detroit	29	2	4	6	34	226.0	108	3.72	1.65	40	
+Gravel Kevin	Puolustaja	Edmonton	25	0	2	2	30	205.0	93	3.72	1.81	37	
+Brouwer Troy	Hyokkaaja	Florida	43	7	3	10	49	235.0	160	3.72	1.58	33	
+Weber Yannick	Puolustaja	Nashville	47	2	5	7	48	225.0	174	3.70	1.65	33	
+Foegele Warren	Hyokkaaja	Carolina	60	9	4	13	94	225.0	222	3.70	1.64	33	
+Martinsen Andreas	Hyokkaaja	Chicago	19	0	2	2	18	230.0	70	3.68	1.60	33	
+Quine Alan	Hyokkaaja	Calgary	6	1	1	2	6	215.0	22	3.67	1.71	40	
+Nolan Jordan	Hyokkaaja	St. Louis	3	0	1	1	1	210.0	11	3.67	1.75	36	
+Eriksson Loui	Hyokkaaja	Vancouver	49	9	11	20	71	230.0	180	3.67	1.60	29	
+Howden Brett	Hyokkaaja	NY Rangers	46	4	12	16	47	221.0	169	3.67	1.66	25	
+Thompson Tage	Hyokkaaja	Buffalo	40	6	5	11	74	217.0	146	3.65	1.68	36	
+Jaskin Dmitrij	Hyokkaaja	Washington	30	1	5	6	38	215.0	109	3.63	1.69	36	
+van Riemsdyk Trevor	Puolustaja	Carolina	60	3	7	10	75	230.0	218	3.63	1.58	32	
+Girgensons Zemgus	Hyokkaaja	Buffalo	40	2	9	11	40	225.0	145	3.62	1.61	36	
+Kulikov Dmitry	Puolustaja	Winnipeg	42	0	4	4	29	230.0	152	3.62	1.57	36	
+Jaros Christian	Puolustaja	Ottawa	36	1	4	5	35	220.0	130	3.61	1.64	32	
+Weal Jordan	Hyokkaaja	Montreal	35	3	7	10	35	214.0	126	3.60	1.68	32	
+Kempe Mario	Hyokkaaja	Arizona	25	3	3	6	27	222.0	90	3.60	1.62	28	
+Toews Devon	Puolustaja	NY Islanders	17	0	5	5	31	240.0	61	3.59	1.50	35	
+Fortin Alexandre	Hyokkaaja	Chicago	22	3	3	6	29	235.0	79	3.59	1.53	32	
+Thomas Robert	Hyokkaaja	St. Louis	53	7	16	23	61	230.0	190	3.58	1.56	35	
+LaDue Paul	Puolustaja	Los Angeles	14	2	0	2	10	225.0	50	3.57	1.59	39	
+Leipsic Brendan	Hyokkaaja	Los Angeles	39	4	8	12	66	226.0	139	3.56	1.58	39	
+Wilson Garrett	Hyokkaaja	Pittsburgh	34	1	4	5	32	215.0	121	3.56	1.66	35	
+Bjork Anders	Hyokkaaja	Boston	9	1	1	2	8	225.0	32	3.56	1.58	32	
+Berglund Patrik	Hyokkaaja	Buffalo	22	2	2	4	22	235.0	78	3.55	1.51	35	
+Morrow Joe	Puolustaja	Winnipeg	31	0	4	4	33	220.0	110	3.55	1.61	35	
+Donato Ryan	Hyokkaaja	Minnesota	33	6	4	10	72	324.0	117	3.55	1.09	31	
+Ritchie Brett	Hyokkaaja	Dallas	37	3	2	5	38	210.0	131	3.54	1.69	38	
+Rattie Ty	Hyokkaaja	Edmonton	28	2	6	8	47	230.0	99	3.54	1.54	35	
+Nieto Matt	Hyokkaaja	Colorado	52	4	12	16	63	215.0	184	3.54	1.65	31	
+Seeler Nick	Puolustaja	Minnesota	46	1	3	4	51	213.0	163	3.54	1.66	31	
+Agostino Kenny	Hyokkaaja	New Jersey	34	2	9	11	38	235.0	120	3.53	1.50	24	
+Dal Colle Michael	Hyokkaaja	NY Islanders	8	1	1	2	11	215.0	28	3.50	1.63	35	
+Strome Ryan	Hyokkaaja	NY Rangers	46	7	5	12	54	240.0	161	3.50	1.46	24	
+Sheahan Riley	Hyokkaaja	Florida	45	6	2	8	56	230.0	157	3.49	1.52	31	
+Andrighetto Sven	Hyokkaaja	Colorado	47	6	5	11	74	225.0	164	3.49	1.55	31	
+Sobotka Vladimir	Hyokkaaja	Buffalo	44	4	7	11	55	229.0	153	3.48	1.52	34	
+Burakovsky Andre	Hyokkaaja	Washington	59	8	7	15	78	230.0	204	3.46	1.50	34	
+Deslauriers Nicolas	Hyokkaaja	Montreal	35	2	1	3	33	220.0	121	3.46	1.57	31	
+Larsson Johan	Hyokkaaja	Buffalo	40	3	4	7	48	225.0	138	3.45	1.53	34	
+Malgin Denis	Hyokkaaja	Florida	33	5	6	11	49	215.0	114	3.45	1.61	31	
+Sbisa Luca	Puolustaja	NY Islanders	9	0	1	1	5	200.0	31	3.44	1.72	34	
+Wennberg Alexander	Hyokkaaja	Columbus	61	1	20	21	58	220.0	209	3.43	1.56	30	
+Djoos Christian	Puolustaja	Washington	36	0	6	6	24	215.0	123	3.42	1.59	34	
+Fabbri Robby	Hyokkaaja	St. Louis	26	2	4	6	34	240.0	89	3.42	1.43	34	
+Ozhiganov Igor	Puolustaja	Toronto	48	3	4	7	40	215.0	163	3.40	1.58	33	
+Granlund Markus	Hyokkaaja	Vancouver	49	7	8	15	73	222.0	164	3.35	1.51	26	
+Smith-Pelly Devante	Hyokkaaja	Washington	45	4	4	8	53	225.0	150	3.33	1.48	33	
+Ennis Tyler	Hyokkaaja	Toronto	41	6	5	11	63	225.0	136	3.32	1.47	33	
+Chaput Michael	Hyokkaaja	Montreal	28	0	4	4	27	220.0	93	3.32	1.51	29	
+Yamamoto Kailer	Hyokkaaja	Edmonton	10	1	1	2	11	235.0	33	3.30	1.40	33	
+Bourque Gabriel	Hyokkaaja	Colorado	50	2	5	7	33	210.0	165	3.30	1.57	29	
+Sutter Brandon	Hyokkaaja	Vancouver	20	4	1	5	32	235.0	66	3.30	1.40	26	
+Stafford Drew	Hyokkaaja	New Jersey	23	1	5	6	25	220.0	76	3.30	1.50	23	
+Fleury Haydn	Puolustaja	Carolina	14	0	1	1	12	215.0	46	3.29	1.53	29	
+Lettieri Vinni	Hyokkaaja	NY Rangers	7	0	0	0	9	220.0	23	3.29	1.49	23	
+Hendricks Matt	Hyokkaaja	Winnipeg	22	0	3	3	20	210.0	72	3.27	1.56	32	
+Marincin Martin	Puolustaja	Toronto	19	1	2	3	28	225.0	62	3.26	1.45	32	
+Ryan Joakim	Puolustaja	San Jose	43	0	7	7	33	215.0	140	3.26	1.51	29	
+Rieder Tobias	Hyokkaaja	Edmonton	36	0	9	9	55	222.0	117	3.25	1.46	32	
+Andersson Lias	Hyokkaaja	NY Rangers	16	1	2	3	17	221.0	52	3.25	1.47	22	
+Pateryn Greg	Puolustaja	Minnesota	47	0	1	1	49	228.0	152	3.23	1.42	29	
+McKegg Greg	Hyokkaaja	Carolina	26	4	3	7	15	215.0	84	3.23	1.50	29	
+Nichushkin Valeri	Hyokkaaja	Dallas	46	0	10	10	59	220.0	148	3.22	1.46	35	
+Cogliano Andrew	Hyokkaaja	Dallas	63	5	8	13	81	230.0	202	3.21	1.39	35	
+Honka Julius	Puolustaja	Dallas	28	0	4	4	36	210.0	90	3.21	1.53	35	
+Janmark Mattias	Hyokkaaja	Dallas	63	3	15	18	83	225.0	202	3.21	1.43	35	
+Mueller Mirco	Puolustaja	New Jersey	30	0	5	5	24	235.0	96	3.20	1.36	22	
+Appleton Mason	Hyokkaaja	Winnipeg	21	2	3	5	19	220.0	67	3.19	1.45	31	
+Karlsson Melker	Hyokkaaja	San Jose	64	9	2	11	64	220.0	204	3.19	1.45	28	
+Garrison Jason	Puolustaja	Edmonton	11	1	0	1	12	225.0	35	3.18	1.41	31	
+Wagner Austin	Hyokkaaja	Los Angeles	18	1	3	4	19	245.0	57	3.17	1.29	34	
+Prout Dalton	Puolustaja	Calgary	14	1	0	1	11	210.0	44	3.14	1.50	34	
+Rinaldo Zac	Hyokkaaja	Nashville	22	1	2	3	11	210.0	69	3.14	1.49	28	
+Puljujarvi Jesse	Hyokkaaja	Edmonton	38	4	5	9	44	215.0	117	3.08	1.43	30	
+Perlini Brendan	Hyokkaaja	Chicago	43	6	5	11	75	199.0	132	3.07	1.54	27	
+Manning Brandon	Puolustaja	Edmonton	32	2	2	4	28	200.0	98	3.06	1.53	30	
+Hamhuis Dan	Puolustaja	Nashville	44	0	5	5	31	220.0	134	3.05	1.38	27	
+McLeod Cody	Hyokkaaja	Nashville	28	1	0	1	18	200.0	85	3.04	1.52	27	
+Thompson Nate	Hyokkaaja	Montreal	49	3	3	6	32	235.0	149	3.04	1.29	27	
+Grimaldi Rocco	Hyokkaaja	Nashville	38	4	4	8	61	210.0	115	3.03	1.44	27	
+Roy Matt	Puolustaja	Los Angeles	1	0	0	0	1	223.0	3	3.00	1.35	33	
+Terry Troy	Hyokkaaja	Anaheim	4	1	1	2	1	220.0	12	3.00	1.36	33	
+Hyka Tomas	Hyokkaaja	Vegas	5	0	0	0	8	215.0	15	3.00	1.40	33	
+Brodziak Kyle	Hyokkaaja	Edmonton	47	3	2	5	54	213.0	141	3.00	1.41	30	
+Rosen Calle	Puolustaja	Toronto	4	1	0	1	5	220.0	12	3.00	1.36	30	
+Gauthier Frederik	Hyokkaaja	Toronto	51	2	7	9	30	220.0	153	3.00	1.36	30	
+Balcers Rudolfs	Hyokkaaja	Ottawa	1	0	0	0	2	233.0	3	3.00	1.29	27	
+Brown Josh	Puolustaja	Florida	1	0	0	0	1	213.0	3	3.00	1.41	27	
+Lauzon Jeremy	Puolustaja	Boston	12	1	0	1	10	210.0	36	3.00	1.43	27	
+Alzner Karl	Puolustaja	Montreal	4	0	0	0	3	215.0	12	3.00	1.40	27	
+Borgstrom Henrik	Hyokkaaja	Florida	19	4	3	7	30	224.0	57	3.00	1.34	27	
+Read Matt	Hyokkaaja	Minnesota	3	0	0	0	5	210.0	9	3.00	1.43	27	
+Schaller Tim	Hyokkaaja	Vancouver	31	0	5	5	28	200.0	93	3.00	1.50	24	
+Fantenberg Oscar	Puolustaja	Calgary	47	0	2	2	42	230.0	140	2.98	1.30	32	
+Kempe Adrian	Hyokkaaja	Los Angeles	48	4	8	12	62	242.0	143	2.98	1.23	32	
+Phaneuf Dion	Puolustaja	Los Angeles	42	0	2	2	44	254.0	125	2.98	1.17	32	
+Kampf David	Hyokkaaja	Chicago	45	3	11	14	60	227.0	133	2.96	1.30	26	
+Street Ben	Hyokkaaja	Anaheim	17	3	2	5	16	210.0	50	2.94	1.40	32	
+Lewis Trevor	Hyokkaaja	Los Angeles	18	2	1	3	36	225.0	53	2.94	1.31	32	
+Haley Micheal	Hyokkaaja	San Jose	34	2	2	4	29	210.0	100	2.94	1.40	26	
+Brown J.T.	Hyokkaaja	Minnesota	33	1	3	4	33	202.0	97	2.94	1.46	26	
+Boyd Travis	Hyokkaaja	Washington	41	4	12	16	24	210.0	120	2.93	1.39	29	
+Peca Matthew	Hyokkaaja	Montreal	28	3	7	10	21	200.0	82	2.93	1.46	26	
+Hunt Dryden	Hyokkaaja	Florida	12	0	1	1	20	222.0	35	2.92	1.31	26	
+Kamenev Vladislav	Hyokkaaja	Colorado	23	2	3	5	22	210.0	67	2.91	1.39	26	
+Steel Sam	Hyokkaaja	Anaheim	12	1	2	3	16	215.0	34	2.83	1.32	31	
+Czarnik Austin	Hyokkaaja	Calgary	44	2	11	13	51	225.0	124	2.82	1.25	31	
+Hannikainen Markus	Hyokkaaja	Columbus	33	4	1	5	38	195.0	93	2.82	1.45	25	
+Rask Victor	Hyokkaaja	Minnesota	28	1	5	6	26	230.0	79	2.82	1.23	25	
+Falk Justin	Puolustaja	Ottawa	5	0	0	0	3	210.0	14	2.80	1.33	25	
+Nash Riley	Hyokkaaja	Columbus	61	3	7	10	59	225.0	171	2.80	1.25	25	
+Cave Colby	Hyokkaaja	Edmonton	24	1	4	5	23	229.0	67	2.79	1.22	27	
+Sedlak Lukas	Hyokkaaja	Columbus	35	2	2	4	26	215.0	97	2.77	1.29	24	
+Roslovic Jack	Hyokkaaja	Winnipeg	58	4	12	16	53	235.0	159	2.74	1.17	27	
+Witkowski Luke	Hyokkaaja	Detroit	15	0	2	2	6	190.0	41	2.73	1.44	30	
+De La Rose Jacob	Hyokkaaja	Detroit	37	3	3	6	35	214.0	101	2.73	1.28	30	
+Seney Brett	Hyokkaaja	New Jersey	37	4	6	10	36	215.0	99	2.68	1.24	18	
+Dries Sheldon	Hyokkaaja	Colorado	14	1	0	1	17	215.0	37	2.64	1.23	23	
+Santini Steven	Puolustaja	New Jersey	14	0	1	1	17	215.0	37	2.64	1.23	18	
+Schenn Luke	Puolustaja	Vancouver	8	0	0	0	8	231.0	21	2.62	1.14	21	
+Paajarvi Magnus	Hyokkaaja	Ottawa	47	5	1	6	59	225.0	122	2.60	1.15	23	
+Bouchard Evan	Puolustaja	Edmonton	7	1	0	1	10	220.0	18	2.57	1.17	25	
+Johnson Luke	Hyokkaaja	Chicago	7	0	0	0	9	215.0	18	2.57	1.20	23	
+Formenton Alex	Hyokkaaja	Ottawa	7	0	0	0	10	220.0	18	2.57	1.17	23	
+Mittelstadt Casey	Hyokkaaja	Buffalo	47	7	7	14	67	231.0	118	2.51	1.09	25	
+Jones Max	Hyokkaaja	Anaheim	4	0	0	0	4	230.0	10	2.50	1.09	27	
+Dano Marko	Hyokkaaja	Colorado	4	0	0	0	2	210.0	10	2.50	1.19	22	
+Lammikko Juho	Hyokkaaja	Florida	27	0	5	5	25	200.0	67	2.48	1.24	22	
+Kyrou Jordan	Hyokkaaja	St. Louis	11	1	1	2	14	225.0	27	2.45	1.09	24	
+Stephenson Chandler	Hyokkaaja	Washington	54	5	6	11	31	205.0	131	2.43	1.18	24	
+Paul Nick	Hyokkaaja	Ottawa	19	1	1	2	28	210.0	46	2.42	1.15	21	
+Forsbacka Karlsson Jakob	Hyokkaaja	Boston	27	3	5	8	21	210.0	65	2.41	1.15	21	
+Eaves Patrick	Hyokkaaja	Anaheim	5	0	0	0	5	280.0	12	2.40	0.86	26	
+Mamin Maxim	Hyokkaaja	Florida	5	0	0	0	6	220.0	12	2.40	1.09	21	
+Kruger Marcus	Hyokkaaja	Chicago	42	3	2	5	38	229.0	101	2.40	1.05	21	
+Elie Remi	Hyokkaaja	Buffalo	14	0	1	1	9	190.0	33	2.36	1.24	23	
+Gibbons Brian	Hyokkaaja	Ottawa	39	2	4	6	28	206.0	92	2.36	1.15	21	
+McCormick Max	Hyokkaaja	Ottawa	12	1	0	1	10	205.0	28	2.33	1.14	21	
+Smith Gemel	Hyokkaaja	Boston	15	2	1	3	13	200.0	35	2.33	1.17	21	
+Barberio Mark	Puolustaja	Colorado	12	1	0	1	11	200.0	28	2.33	1.17	21	
+Hayden John	Hyokkaaja	Chicago	33	2	1	3	22	231.0	76	2.30	1.00	20	
+Prosser Nate	Puolustaja	Minnesota	15	0	0	0	10	210.0	34	2.27	1.08	20	
+Larsson Jacob	Puolustaja	Anaheim	35	0	2	2	36	205.0	79	2.26	1.10	24	
+Dowling Justin	Hyokkaaja	Dallas	8	0	1	1	7	220.0	18	2.25	1.02	24	
+Hanley Joel	Puolustaja	Dallas	13	0	0	0	6	210.0	28	2.15	1.03	23	
+Welinski Andy	Puolustaja	Anaheim	8	0	1	1	8	225.0	17	2.12	0.94	23	
+Milano Sonny	Hyokkaaja	Columbus	8	1	0	1	5	215.0	17	2.12	0.99	19	
+Chartier Rourke	Hyokkaaja	San Jose	8	1	0	1	16	200.0	17	2.12	1.06	19	
+Amadio Michael	Hyokkaaja	Los Angeles	10	0	2	2	5	200.0	21	2.10	1.05	23	
+Frk Martin	Hyokkaaja	Detroit	20	1	3	4	16	195.0	42	2.10	1.08	23	
+Ehn Christoffer	Hyokkaaja	Detroit	24	1	1	2	19	210.0	50	2.08	0.99	22	
+Dube Dillon	Hyokkaaja	Calgary	12	0	2	2	14	210.0	25	2.08	0.99	22	
+Gaudette Adam	Hyokkaaja	Vancouver	23	1	3	4	17	226.0	47	2.04	0.90	16		
+L'Esperance Joel	Hyokkaaja	Dallas	1	0	0	0	2	202.0	2	2.00	0.99	22	
+Currie Josh	Hyokkaaja	Edmonton	1	0	0	0	2	242.0	2	2.00	0.83	20	
+Wolanin Christian	Puolustaja	Ottawa	1	0	0	0	2	207.0	2	2.00	0.97	18	
+Clendening Adam	Puolustaja	Columbus	4	0	0	0	3	210.0	8	2.00	0.95	18	
+Robinson Eric	Hyokkaaja	Columbus	2	0	0	0	3	205.0	4	2.00	0.98	18	
+Alt Mark	Puolustaja	Colorado	2	0	0	0	2	210.0	4	2.00	0.95	18	
+Kunin Luke	Hyokkaaja	Minnesota	1	0	0	0	1	252.0	2	2.00	0.79	18	
+Knight Corban	Hyokkaaja	Philadelphia	3	0	0	0	2	190.0	6	2.00	1.05	18	
+Spooner Ryan	Hyokkaaja	Vancouver	26	2	1	3	34	225.0	52	2.00	0.89	16	
+Rooney Kevin	Hyokkaaja	New Jersey	2	0	0	0	0	240.0	4	2.00	0.83	14	
+Ruhwedel Chad	Puolustaja	Pittsburgh	10	0	0	0	13	215.0	19	1.90	0.88	19	
+Lehtera Jori	Hyokkaaja	Philadelphia	26	1	2	3	17	195.0	49	1.88	0.97	16	
+Megan Wade	Hyokkaaja	Detroit	7	0	0	0	11	195.0	13	1.86	0.95	20	
+Moore Trevor	Hyokkaaja	Toronto	12	1	0	1	17	210.0	22	1.83	0.87	18	
+Holl Justin	Puolustaja	Toronto	9	0	1	1	6	210.0	16	1.78	0.85	17	
+Gaudreau Frederick	Hyokkaaja	Nashville	45	3	0	3	32	205.0	79	1.76	0.86	15	
+Hicketts Joe	Puolustaja	Detroit	8	0	0	0	9	205.0	14	1.75	0.85	19	
+Lundestrom Isac	Hyokkaaja	Anaheim	10	0	1	1	10	200.0	17	1.70	0.85	18	
+Zykov Valentin	Hyokkaaja	Vegas	21	1	2	3	18	215.0	35	1.67	0.78	18	
+Kunitz Chris	Hyokkaaja	Chicago	28	1	1	2	21	211.0	46	1.64	0.78	14	
+Methot Marc	Puolustaja	Dallas	8	0	0	0	3	210.0	13	1.62	0.77	17	
+Schmaltz Jordan	Puolustaja	St. Louis	18	0	2	2	11	210.0	29	1.61	0.77	16	
+Varone Phil	Hyokkaaja	Philadelphia	16	1	0	1	10	205.0	25	1.56	0.76	14	
+Walker Sean	Puolustaja	Los Angeles	4	0	1	1	7	216.0	6	1.50	0.69	16		
+Fritz Tanner	Hyokkaaja	NY Islanders	4	0	0	0	3	205.0	6	1.50	0.73	15	
+Niku Sami	Puolustaja	Winnipeg	16	0	0	0	7	225.0	24	1.50	0.67	15	
+Gryba Eric	Puolustaja	New Jersey	2	0	0	0	0	215.0	3	1.50	0.70	10		
+Graves Ryan	Puolustaja	Colorado	7	0	0	0	5	210.0	10	1.43	0.68	12	
+Pyatt Tom	Hyokkaaja	Ottawa	30	0	2	2	24	200.0	42	1.40	0.70	12	
+Petan Nic	Hyokkaaja	Toronto	16	0	2	2	13	200.0	22	1.38	0.69	13	
+Blackwell Colin	Hyokkaaja	Nashville	3	0	0	0	2	190.0	4	1.33	0.70	12	
+Zadina Filip	Hyokkaaja	Detroit	1	0	0	0	2	216.0	1	1.00	0.46	11	
+Brodzinski Jonny	Hyokkaaja	Los Angeles	1	0	0	0	1	206.0	1	1.00	0.49	11	
+McGinn Jamie	Hyokkaaja	Florida	1	0	0	0	0	251.0	1	1.00	0.40	9	
+MacKenzie Derek	Hyokkaaja	Florida	1	0	0	0	0	195.0	1	1.00	0.51	9	
+Roy Nicolas	Hyokkaaja	Carolina	2	0	0	0	1	190.0	2	1.00	0.53	9	
+Cehlarik Peter	Hyokkaaja	Boston	1	0	0	0	1	236.0	1	1.00	0.42	9		
+Davidson Brandon	Puolustaja	Chicago	6	0	1	1	4	200.0	4	0.67	0.33	6	
+Hunwick Matt	Puolustaja	Buffalo	2	0	0	0	2	210.0	1	0.50	0.24	5	
+Lomberg Ryan	Hyokkaaja	Calgary	3	0	0	0	1	231.0	1	0.33	0.14	3	
+Myers Philippe	Puolustaja	Philadelphia	0	0	0	0	0	230.0	0	0.00	0.00	0	
+Lappin Nick	Hyokkaaja	New Jersey	0	0	0	0	0	200.0	0	0.00	0.00	0	
+Gambrell Dylan	Hyokkaaja	San Jose	1	0	0	0	0	190.0	0	0.00	0.00	0	
+Poolman Tucker	Puolustaja	Winnipeg	0	0	0	0	0	205.0	0	0.00	0.00	0	
+Johns Stephen	Puolustaja	Dallas	0	0	0	0	0	215.0	0	0.00	0.00	0	
+McCoshen Ian	Puolustaja	Florida	0	0	0	0	0	220.0	0	0.00	0.00	0	
+Holzer Korbinian	Puolustaja	Anaheim	0	0	0	0	0	215.0	0	0.00	0.00	0	
+Roy Kevin	Hyokkaaja	Anaheim	0	0	0	0	0	225.0	0	0.00	0.00	0	
+Vaakanainen Urho	Puolustaja	Boston	2	0	0	0	2	200.0	0	0.00	0.00	0	
+MacDermid Kurtis	Puolustaja	Los Angeles	0	0	0	0	0	200.0	0	0.00	0.00	0	
+Lindholm Anton	Puolustaja	Colorado	0	0	0	0	0	200.0	0	0.00	0.00	0	
+Bailey Justin	Hyokkaaja	Philadelphia	0	0	0	0	0	195.0	0	0.00	0.00	0	
+Sustr Andrej	Puolustaja	Anaheim	0	0	0	0	0	220.0	0	0.00	0.00	0	
+Bastian Nathan	Hyokkaaja	New Jersey	0	0	0	0	0	235.0	0	0.00	0.00	0		
+Gaborik Marian	Hyokkaaja	Ottawa	0	0	0	0	0	250.0	0	0.00	0.00	0	
+Svechnikov Evgeny	Hyokkaaja	Detroit	0	0	0	0	0	210.0	0	0.00	0.00	0		
+Brickley Connor	Hyokkaaja	NY Rangers	0	0	0	0	0	225.0	0	0.00	0.00	0	
+Pietila Blake	Hyokkaaja	New Jersey	0	0	0	0	0	215.0	0	0.00	0.00	0	
+Sikura Dylan	Hyokkaaja	Chicago	0	0	0	0	0	220.0	0	0.00	0.00	0	
+Bean Jake	Puolustaja	Carolina	0	0	0	0	0	210.0	0	0.00	0.00	0		
+Megna Jaycob	Puolustaja	Anaheim	0	0	0	0	0	210.0	0	0.00	0.00	0	
+Guhle Brendan	Puolustaja	Anaheim	0	0	0	0	0	230.0	0	0.00	0.00	0	
+Quenneville John	Hyokkaaja	New Jersey	0	0	0	0	0	210.0	0	0.00	0.00	0		
+Malone Brad	Hyokkaaja	Edmonton	0	0	0	0	0	200.0	0	0.00	0.00	0	
+Capobianco Kyle	Puolustaja	Arizona	0	0	0	0	0	200.0	0	0.00	0.00	0	
+Gabriel Kurtis	Hyokkaaja	New Jersey	0	0	0	0	0	230.0	0	0.00	0.00	0	
+Ho-Sang Joshua	Hyokkaaja	NY Islanders	0	0	0	0	0	220.0	0	0.00	0.00	0		
+Donovan Matt	Puolustaja	Nashville	0	0	0	0	0	200.0	0	0.00	0.00	0	
+McLeod Michael	Hyokkaaja	New Jersey	0	0	0	0	0	225.0	0	0.00	0.00	0	
+Brisebois Guillaume	Puolustaja	Vancouver	0	0	0	0	0	200.0	0	0.00	0.00	0	
+Perry Corey	Hyokkaaja	Anaheim	0	0	0	0	0	275.0	0	0.00	0.00	0		
+Lazar Curtis	Hyokkaaja	Calgary	0	0	0	0	0	200.0	0	0.00	0.00	0	
+Nieves Boo	Hyokkaaja	NY Rangers	1	0	0	0	0	209.0	-1	-1.00	-0.48	-7	
+Tennyson Matt	Puolustaja	Buffalo	1	0	0	0	1	200.0	-1	-1.00	-0.50	-10	
+Marody Cooper	Hyokkaaja	Edmonton	4	0	0	0	2	190.0	-4	-1.00	-0.53	-10		
+Jerabek Jakub	Puolustaja	St. Louis	1	0	0	0	1	200.0	-3	-3.00	-1.50	-30		
